@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-            con.ConnectionString = "Data Source=DESKTOP-32EDD3P\\SQLEXPRESS;" +
+            con.ConnectionString = "Data Source=OSIO\\SQLEXPRESS01;" +
                 "Initial Catalog=FlowerMarket;" +
                 "Integrated Security=True";
             LoadData();
