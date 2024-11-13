@@ -34,4 +34,4 @@
 
 И если всё это есть можно запускать приложение через WindowsFormsApp1.sln
 
-<img src="1.jpg" alt="Окно приложения" width="350">
+<img src="images/1.jpg" alt="Окно приложения" width="350">
